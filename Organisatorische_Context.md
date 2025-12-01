@@ -42,7 +42,7 @@ Eerlijkheid & duurzaamheid – verantwoorde productie
 
  --------------------------------------
 
-##**Strategie** 
+## **Strategie** 
 
 ChocoMasters voert een duidelijke prijsstrategie / kostenleiderschap. 
 
