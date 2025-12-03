@@ -1,4 +1,4 @@
-# Requirements specificatie – Mobiele applicatie ChocoMasters
+# Requirements specificatie_Mobiele applicatie ChocoMasters
 
 ## Welkom bij de Requirements Specificatie van ChocoMasters
 
