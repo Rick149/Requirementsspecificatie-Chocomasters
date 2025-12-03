@@ -95,7 +95,7 @@ Belangrijke strategische die wij gekozen hebben:
 - Lage stukskosten door standaardisatie en efficiënte processen  
 - Standaardisatie van recepten en productieprocessen  
 - Eenvoudig, goedkoop maar herkenbaar verpakkingsmateriaal  
-- Hoge volumes → lage marges per stuk, maar winstgevendheid via schaal  
+- Hoge volumes - lage marges per stuk, maar winstgevendheid via schaal  
 
 Positionering t.o.v. concurrentie:
 
