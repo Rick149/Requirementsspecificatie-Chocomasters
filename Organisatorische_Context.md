@@ -66,4 +66,20 @@ De groeiambitie is gebaseerd op drie structurele pijlers:
 -----
 
   
-  
+### 1.4 Kernwaarden
+
+De kernwaarden van ChocoMasters zijn richtinggevend voor interne processen, productbeslissingen en de inrichting van (informatie)systemen zoals de mobiele app:
+
+- **Betaalbaarheid** – lage prijs als primaire waarde; IT-oplossingen moeten kostenbewust zijn  
+- **Kwaliteit** – consistente smaak en betrouwbare productinformatie  
+- **Efficiëntie** – processen zo eenvoudig en geautomatiseerd mogelijk  
+- **Toegankelijkheid** – producten én digitale kanalen zijn voor iedereen makkelijk bereikbaar  
+- **Eerlijkheid & duurzaamheid** – transparantie over herkomst, productie en impact  
+
+De mobiele applicatie moet deze kernwaarden versterken door:
+
+- duidelijke, toegankelijke productinformatie (kwaliteit, allergenen, herkomst)  
+- eenvoudige flows voor registratie, bestellingen en klachten  
+- transparante communicatie over duurzaamheid en privacy  
+
+
