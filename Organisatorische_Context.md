@@ -83,3 +83,6 @@ De mobiele applicatie moet deze kernwaarden versterken door:
 - transparante communicatie over duurzaamheid en privacy  
 
 
+ -----
+
+
