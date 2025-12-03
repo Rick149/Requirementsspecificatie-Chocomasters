@@ -85,4 +85,27 @@ De mobiele applicatie moet deze kernwaarden versterken door:
 
  -----
 
+### 1.5 Strategie
+
+ChocoMasters voert een **kostenleiderschapsstrategie**: concurreren op **lage prijs bij acceptabele kwaliteit**.
+
+Belangrijke strategische die wij gekozen hebben:
+
+- Bulkproductie om schaalvoordelen te realiseren  
+- Lage stukskosten door standaardisatie en efficiënte processen  
+- Standaardisatie van recepten en productieprocessen  
+- Eenvoudig, goedkoop maar herkenbaar verpakkingsmateriaal  
+- Hoge volumes → lage marges per stuk, maar winstgevendheid via schaal  
+
+Positionering t.o.v. concurrentie:
+
+- Premiummerken concurreren op luxe ervaring, exclusieve smaken en merkstatus  
+- ChocoMasters concurreert op **prijs, beschikbaarheid en gemak**: overal verkrijgbaar, eenvoudig, eerlijk en betaalbaar  
+
+De mobiele app is een strategisch middel om:
+
+- klantloyaliteit te verhogen zonder hoge marketingkosten  
+- servicekosten te verlagen door self-service (FAQ, chatbot, digitale klachtenafhandeling)  
+- data te verzamelen voor gerichte product- en marketingbeslissingen  
+- het merk te laden als modern, transparant en klantgericht, ondanks de lage prijspositionering  
 
