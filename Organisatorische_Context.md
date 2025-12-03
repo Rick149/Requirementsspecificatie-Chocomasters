@@ -109,3 +109,6 @@ De mobiele app is een strategisch middel om:
 - data te verzamelen voor gerichte product- en marketingbeslissingen  
 - het merk te laden als modern, transparant en klantgericht, ondanks de lage prijspositionering  
 
+------
+
+
