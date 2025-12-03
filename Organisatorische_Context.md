@@ -6,7 +6,7 @@ ChocoMasters is een snelgroeiend chocoladebedrijf dat zich positioneert als prij
  
 --------------------------------------
 
-## **Missie**
+## 1.2 Missie 
 ChocoMasters wil dat iedereen, ongeacht inkomen, elke dag kan genieten van goede chocolade. Deze missie wordt vertaald naar concrete bedrijfsprincipes:
 - efficiënte productietechnieken
 - minimaliseren van overhead en verspilling
@@ -15,7 +15,7 @@ ChocoMasters wil dat iedereen, ongeacht inkomen, elke dag kan genieten van goede
 
 --------------------------------------
 
-## **Visie**
+## 1.3 Visie 
 
 ChocoMasters streeft ernaar om het meest toegankelijke en vertrouwde chocolademerk van Nederland en later ook internationaal te worden. 
 Het bedrijf wil groeien via structurele pijlers zoals: 
@@ -30,7 +30,7 @@ CO₂bewust transport
 
 --------------------------------------
 
-## **Kernwaarden** 
+## 1.4 Kernwaarden 
 
 De kernwaarden van ChocoMasters zijn leidend bij interne processen, productbeslissingen en systeeminrichting: 
 
@@ -42,30 +42,34 @@ Eerlijkheid & duurzaamheid – verantwoorde productie
 
  --------------------------------------
 
-## **Strategie** 
+## 1.5 Strategie 
 
-ChocoMasters voert een duidelijke prijsstrategie / kostenleiderschap. 
+ChocoMasters voert een kostenleiderschapsstrategie: concurreren op lage prijs bij acceptabele kwaliteit.
 
 De organisatie richt zich op: 
-Bulkproductie 
-Lage stukskosten 
-Standaardisatie van processen 
-Eenvoudig, goedkoop verpakkingsmateriaal 
-Hoge volumes → lage marges per stuk 
+Bulkproductie om schaalvoordelen te realiseren
 
-De positionering ten opzichte van de concurrentie is helder: 
-Premiummerken concurreren op luxe en kwaliteit. 
-ChocoMasters concurreert op prijs en beschikbaarheid voor iedereen. 
+Lage stukskosten door standaardisatie en efficiënte processen
+Standaardisatie van recepten en productieprocessen
+Eenvoudig, goedkoop maar herkenbaar verpakkingsmateriaal
+Hoge volumes → lage marges per stuk, maar winstgevendheid via schaal
 
+De positionering ten opzichte van de concurrentie is helder:
+
+Premiummerken concurreren op luxe ervaring, exclusieve smaken en merkstatus
+ChocoMasters concurreert op prijs, beschikbaarheid en gemak: overal verkrijgbaar, eenvoudig, eerlijk en betaalbaar
 --------------------------------------
 
-## **Marktsegment en doelgroep** 
-ChocoMasters levert B2B aan: 
-Supermarkten 
-Horeca 
-Groothandels 
+De mobiele app is een strategisch middel om:
 
-Deze partijen kopen in bulk en verspreiden de producten naar consumenten. 
+klantloyaliteit te verhogen zonder hoge marketingkosten
+
+servicekosten te verlagen door self-service (FAQ, chatbot, digitale klachtenafhandeling)
+
+data te verzamelen voor gerichte product- en marketingbeslissingen
+
+het merk te laden als modern, transparant en klantgericht, ondanks de lage prijspositionering
+------------------------
 
  
 
