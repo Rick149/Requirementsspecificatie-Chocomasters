@@ -1,7 +1,7 @@
 # Requirements specificatie - Mobiele applicatie ChocoMasters
 -----
 
-## _Welkom bij de Requirements Specificatie van ChocoMasters!
+## _Welkom bij de Requirements Specificatie van ChocoMasters!_
 
 
 
