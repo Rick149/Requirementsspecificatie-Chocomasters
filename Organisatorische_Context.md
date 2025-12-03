@@ -1,4 +1,4 @@
-# Welkom bij de requirements specificatie van ChocoMasters
+# Welkom bij de Requirements Specificatie van ChocoMasters
 --------------------------------------
 
 ##  1.1 Identiteit van de organisatie
