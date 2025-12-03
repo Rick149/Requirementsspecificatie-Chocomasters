@@ -1,7 +1,8 @@
-# Requirements specificatie - Mobiele applicatie ChocoMasters
+# Requirements specificatie - Mobiele applicatie ChocoMaster
+-----
 
 ## Welkom bij de Requirements Specificatie van ChocoMasters!
----
+
 
 ## 1 Organisatorische context
 
