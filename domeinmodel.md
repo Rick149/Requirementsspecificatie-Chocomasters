@@ -1,5 +1,5 @@
 # Domeinmodel en UML klassendiagram
-_Het onderstaande diagram toont het domeinmodel voor de applicatie van ChocoMasters._
+_Het onderstaande diagram toont het domeinmodel/UML-klassendiagram voor de mobiele applicatie van ChocoMasters._
 
 ```mermaid
 classDiagram
