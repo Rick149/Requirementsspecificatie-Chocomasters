@@ -189,4 +189,20 @@ Voor de komende jaren hanteert ChocoMasters – binnen de kaders van de Chocolat
   - Gebruiken de app voor productregistratie, informatie, recepten, community en meldingen  
   - Verwachten gemak, transparantie en persoonlijke relevante aanbiedingen  
 
+- **B2B-klanten (supermarkten, horeca, groothandels)**  
+  - Willen inzicht in levertijden, voorraadstatus en productwijzigingen  
+  - Kunnen via de app bestellen en meldingen doen over kwaliteit of logistiek  
+
+- **Leveranciers van cacao en ingrediënten**  
+  - Indirect betrokken via informatie over herkomst en certificeringen  
+  - Data over duurzaamheid en ketentransparantie kan uit hun systemen komen  
+
+- **Externe IT-partners / integratiepartners**  
+  - Ondersteunen koppelingen met ERP, BI, CRM en eventuele loyaliteitssystemen  
+
+- **Toezichthouders en regelgevende instanties**  
+  - Stellen eisen rond privacy (AVG/GDPR), voedselveiligheid en productinformatie  
+
+---
+
 
