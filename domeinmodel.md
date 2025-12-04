@@ -3,59 +3,61 @@ _Het onderstaande diagram toont het domeinmodel voor de applicatie van ChocoMast
 
 ```mermaid
 classDiagram
+    direction LR
+
     class Klant {
       +int klantId
       +String naam
-      +String email
-      +Boolean isZakelijk
     }
 
     class Product {
       +int productId
       +String naam
-      +Float cacaoPercentage
-      +Boolean isSeizoensproduct
-      +String allergenenInfo
     }
 
-    class ProductBatch {
-      +int batchId
-      +String batchNummer
-      +Date houdbaarTot
-      +String qrCode
-    }
-
-    class GeregistreerdProduct {
+    class ProductRegistratie {
       +int registratieId
       +Date registratiedatum
-      +String registratiemethode
     }
 
     class Bestelling {
       +int bestellingId
       +Date besteldatum
-      +String status
-      +Float totaalBedrag
     }
 
     class Bestelregel {
       +int bestelregelId
       +int aantal
-      +Float stuksPrijs
     }
 
     class Klacht {
       +int klachtId
-      +Date aangemaaktOp
-      +String type
-      +String omschrijving
+      +Date datum
       +String status
     }
 
-    class InhoudItem {
-      +int inhoudId
-      +String titel
-      +String type
-      +String taal
+    class Event {
+      +int eventId
+      +String naam
+      +Date datum
     }
+
+    class Locatie {
+      +int locatieId
+      +String naam
+      +String plaats
+    }
+
+    Klant "1" --> "0..*" ProductRegistratie : registreert >
+    Product "1" --> "0..*" ProductRegistratie : betreft >
+
+    Klant "1" --> "0..*" Bestelling : plaatst >
+    Bestelling "1" --> "1..*" Bestelregel : bevat >
+    Product "1" --> "0..*" Bestelregel : wordtBesteldIn >
+
+    Klant "1" --> "0..*" Klacht : dientIn >
+    ProductRegistratie "0..1" --> "0..*" Klacht : gaatOver >
+
+    Locatie "1" --> "0..*" Event : vindtPlaats >
+    Event "1" --> "0..*" Klant : heeftDeelnemers >
 
