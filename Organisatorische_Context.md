@@ -149,3 +149,38 @@ Voor de komende jaren hanteert ChocoMasters – binnen de kaders van de Chocolat
 
 ---
 
+
+### 1.7 Stakeholderanalyse
+
+**Interne stakeholders**
+
+- **Raad van Commissarissen (RvC) – Chocolate Firm**  
+  - Initiatiefnemer van de app-strategie voor alle bedrijven onder de Chocolate Firm  
+  - Stuurt op klantloyaliteit, digitale innovatie en kostenbeheersing  
+
+- **Directie ChocoMasters**  
+  - Eindverantwoordelijk voor merkpositionering, strategie en investering in de app  
+  - Verwacht meetbare bijdrage aan omzet, loyaliteit en efficiency  
+
+- **Marketing & Communicatie**  
+  - Beheer van content in de app (promoties, productinformatie, verhalen, events)  
+  - Definieert campagnes, doelgroepen en pushnotificaties  
+
+- **Klantenservice / Support**  
+  - Gebruikt de app als kanaal voor klachten, vragen en live chat  
+  - Heeft behoefte aan overzichtelijke workflows, dossiervorming en statusinformatie  
+
+- **IT / Applicatiebeheer**  
+  - Verantwoordelijk voor techniek, beveiliging, integraties (ERP, CRM, BI)  
+  - Bewaakt performance, beschikbaarheid en updates  
+
+- **Logistiek & Operations**  
+  - Afhankelijk van betrouwbare data over bestellingen, voorraad en kwaliteitsmeldingen  
+  - Ontvangt meldingen over retouren, schade en levertijden  
+
+- **Kwaliteitsmanagement**  
+  - Gebruikt feedback, klachten en productmeldingen om kwaliteit te verbeteren  
+  - Stuurt op naleving van voedselveiligheid en certificeringen  
+
+
+
