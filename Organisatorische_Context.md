@@ -183,4 +183,10 @@ Voor de komende jaren hanteert ChocoMasters – binnen de kaders van de Chocolat
   - Stuurt op naleving van voedselveiligheid en certificeringen  
 
 
+**Externe stakeholders**
+
+- **Consumenten (B2C-klanten)**  
+  - Gebruiken de app voor productregistratie, informatie, recepten, community en meldingen  
+  - Verwachten gemak, transparantie en persoonlijke relevante aanbiedingen  
+
 
