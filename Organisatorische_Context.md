@@ -135,5 +135,16 @@ Voor de komende jaren hanteert ChocoMasters – binnen de kaders van de Chocolat
    - Upsell en cross-sell via persoonlijke aanbevelingen  
    - Early-access campagnes voor limited editions en seizoensproducten  
 
+4. **Versterken van merk en duurzaamheid**
 
+   - Transparante communicatie over herkomst, certificeringen en duurzaamheid  
+   - Betere zichtbaarheid van duurzame productlijnen  
+   - Educatieve content (video’s, verhalen “van boon tot reep”)  
 
+5. **Datagedreven besluitvorming**
+
+   - Inzichten uit BI-rapportages gebaseerd op app-data  
+   - Ondersteuning van productontwikkeling, voorraadplanning en marketing  
+   - Snelle signalering van kwaliteitsissues via meldingen in de app  
+
+---
