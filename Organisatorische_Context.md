@@ -113,5 +113,21 @@ De mobiele app is een strategisch middel om:
 - het merk te laden als modern, transparant en klantgericht, ondanks de lage prijspositionering  
 
 ------
+### 1.6 Doelstellingen van de organisatie (relevant voor de app)
+
+Voor de komende jaren hanteert ChocoMasters – binnen de kaders van de Chocolate Firm – de volgende strategische doelstellingen waarbij de mobiele applicatie een sleutelrol speelt:
+
+1. **Verhogen van klantloyaliteit**
+
+   - Meer herhaalaankopen en abonnementen  
+   - Hogere klanttevredenheidsscores  
+   - Meer actieve app-gebruikers en communitydeelnemers  
+
+2. **Verlagen van service- en afhandelkosten**
+
+   - Minder telefonische en e-mailcontacten door self-service via app  
+   - Kortere doorlooptijd van klachten en retouren  
+   - Automatische herkenning van veelvoorkomende problemen  
+
 
 
