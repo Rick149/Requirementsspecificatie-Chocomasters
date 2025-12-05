@@ -9,15 +9,10 @@
 
 ### 1.1 Identiteit van de organisatie
 
-ChocoMasters is een snelgroeiend chocoladebedrijf dat zich positioneert als **prijsvriendelijk alternatief** in de chocolademarkt. Waar premiummerken inzetten op luxe, exclusiviteit en merkstatus, richt ChocoMasters zich op:
+ChocoMasters is een snelgroeiend chocoladebedrijf dat zich positioneert als een betaalbaar en toegankelijk alternatief voor premium chocolademerken. Het merk richt zich niet op luxe, maar op chocolade voor iedereen, iedere dag. De organisatie maakt deel uit van de Chocolate Firm, een concern waarin meerdere chocoladebedrijven met verschillende marktstrategieën opereren. 
 
-- Betaalbaarheid  
-- Toegankelijkheid  
-- Herkenbaarheid als “chocolade voor iedere dag”
+ChocoMasters levert zijn producten voornamelijk aan supermarkten, horeca en groothandels, die deze vervolgens distribueren naar consumenten. Hierdoor opereert het bedrijf in essentie in een B2B-markt, met een sterke indirecte impact op de consument. 
 
-ChocoMasters positioneert haar producten niet als statusproduct, maar als **dagelijks genietmoment** dat voor iedereen bereikbaar moet zijn. De organisatie maakt deel uit van de overkoepelende **Chocolate Firm**, waaronder meerdere chocoladebedrijven vallen die elk hun eigen merkstrategie en marktsegment hebben.
-
- 
 ----
 
 ### 1.2 Missie
