@@ -17,7 +17,7 @@ ChocoMasters levert zijn producten voornamelijk aan supermarkten, horeca en groo
 
 ### 1.2 Missie
 
-ChocoMasters wil dat **iedereen, ongeacht inkomen, elke dag kan genieten van goede chocolade**.
+De missie van ChocoMasters is eenvoudig maar krachtig: **iedereen moet elke dag kunnen genieten van goede chocolade, ongeacht inkomen.** Om dit mogelijk te maken, richt de organisatie zich op efficiënte productie, het minimaliseren van verspilling en scherpe inkoop. 
 
 Deze missie wordt vertaald naar de volgende bedrijfsprincipes:
 
@@ -37,8 +37,7 @@ De te ontwikkelen mobiele applicatie ondersteunt deze missie door:
 
 ### 1.3 Visie
 
-ChocoMasters streeft ernaar om **het meest toegankelijke en vertrouwde chocolademerk van Nederland** te worden en op langere termijn ook in andere Europese landen.
-
+ChocoMasters wil uitgroeien tot het meest toegankelijke en vertrouwde chocolademerk van Nederland, met op termijn uitbreiding naar Europa. 
 De groeiambitie is gebaseerd op drie structurele pijlers:
 
 #### Innovatie
