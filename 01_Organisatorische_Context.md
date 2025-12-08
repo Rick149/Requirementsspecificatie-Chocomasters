@@ -93,7 +93,7 @@ De mobiele app speelt een strategische rol door klantloyaliteit te verhogen, ser
 ------
 ### 1.6 Doelstellingen van de organisatie
 
-Voor de komende jaren hanteert ChocoMasters – binnen de kaders van de Chocolate Firm – de volgende strategische doelstellingen waarbij de mobiele applicatie een sleutelrol speelt:
+ChocoMasters heeft vijf verschillende strategische doelstellingen waar de app een cruciale bijdrage aan moet leveren.
 
 1. **Verhogen van klantloyaliteit**
 
