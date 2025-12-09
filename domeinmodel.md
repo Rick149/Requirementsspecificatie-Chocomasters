@@ -61,3 +61,8 @@ classDiagram
     Locatie "1" --> "0..*" Event : vindtPlaats >
     Event "1" --> "0..*" Klant : heeftDeelnemers >
 
+```
+
+
+_In dit domeinmodel zijn de belangrijkste punten vastgelegd: klant, product, productregistratie, bestelling, klacht en evenementen. In deze fase worden functionaliteiten zoals community, content en notificaties gezien als een onderdeel van deze kernentiteiten en worden ze verder ontwikkeld bij de user stories en wireframes._
+
