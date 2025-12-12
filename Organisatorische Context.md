@@ -184,7 +184,7 @@ ChocoMasters heeft vijf verschillende strategische doelstellingen waar de app ee
 ---
 
 
-## 1.8 Actoren van het systeem ##
+## 1.8 Actoren van het systeem
 
 De app en onderliggende systemen worden door verschillende actoren gebruikt. **Productiemedewerkers** registreren batches en productiegegevens. **Magazijn- en logistiek personeel** verwerken voorraden en mutaties. **Kwaliteitscontroleurs** voeren keuringen uit en registreren hun bevindingen. 
 
@@ -193,7 +193,7 @@ De app en onderliggende systemen worden door verschillende actoren gebruikt. **P
 
 ---
 
-## 1.9 GAP-analyse ##
+## 1.9 GAP-analyse
 
 **Huidige situatie**
 
@@ -220,10 +220,10 @@ Binnen ChocoMasters worden productie-, voorraad- en kwaliteitsgegevens grotendee
 ChocoMasters werkt met een centraal digitaal systeem waarin productie, voorraad en kwaliteit realtime worden geregistreerd. Processen zijn gestroomlijnd, foutkansen zijn verminderd en management beschikt over actuele dashboards. De mobiele applicatie ondersteunt medewerkers en management bij dagelijkse werkzaamheden en besluitvorming.
 
 
---
+---
 
 
-## 1.10 SIPOC## 
+## 1.10 SIPOC
 
 | **Supplier**          | **Input**                     | **Process**                          | **Output**                        | **Customer**                       |
 | --------------------- | ----------------------------- | ------------------------------------ | --------------------------------- | ---------------------------------- |
@@ -234,3 +234,12 @@ ChocoMasters werkt met een centraal digitaal systeem waarin productie, voorraad 
 | Administratie         | Batch- en orderinformatie     | Rapportage en documentatie           | Productie- en kwaliteitsrapporten | Management                         |
 | Transporteurs         | Transportmiddelen             | Distributie                          | Geleverde producten               | Supermarkten, horeca, groothandels |
 
+
+---
+
+
+## 1.11 Duurzaamheid en maatschappelijke verantwoordelijkheid 
+
+ChocoMasters hanteert een duidelijk duurzaamheidsbeleid. Het bedrijf werkt met eerlijk verkregen cacao, energiezuinige productieprocessen en recyclebare verpakkingen. Ook wordt er actief gestuurd op CO₂-reductie in transport en logistiek. 
+
+De mobiele applicatie biedt kansen om deze waarden nog zichtbaarder te maken voor klanten, bijvoorbeeld door informatie over certificeringen, herkomst en milieu-impact toegankelijk te presenteren. 
