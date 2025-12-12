@@ -189,3 +189,32 @@ ChocoMasters heeft vijf verschillende strategische doelstellingen waar de app ee
 De app en onderliggende systemen worden door verschillende actoren gebruikt. **Productiemedewerkers** registreren batches en productiegegevens. **Magazijn- en logistiek personeel** verwerken voorraden en mutaties. **Kwaliteitscontroleurs** voeren keuringen uit en registreren hun bevindingen. 
 
 **Administratieve medewerkers** zorgen voor rapportages en documentatie. **Het management** maakt gebruik van dashboards en analyses. **De IT afdeling** zorgt voor ondersteuning en beheer van accounts, rechten en infrastructuur. 
+
+
+---
+
+**GAP-analyse**
+
+**Huidige situatie**
+
+Binnen ChocoMasters worden productie-, voorraad- en kwaliteitsgegevens grotendeels vastgelegd in losse Excelbestanden en op papier. Informatie is verspreid en niet realtime beschikbaar. KPI-monitoring en datagedreven sturing zijn beperkt mogelijk.
+
+**Knelpunten**
+
+- Handmatige registratie is foutgevoelig
+- Data is versnipperd en niet actueel
+- Geen realtime inzicht in voorraad en kwaliteit
+- Kwaliteitscontroles zijn niet uniform vastgelegd
+- Beperkte ondersteuning voor KPI-monitoring
+
+**Verbetermaatregelen**
+
+- Centraliseren van data in één systeem
+- Automatiseren van registraties en workflows
+- Digitale vastlegging van kwaliteitscontroles
+- Realtime dashboards en KPI-monitoring
+- Ondersteuning via mobiele applicatie
+
+**Gewenste situatie**
+
+ChocoMasters werkt met een centraal digitaal systeem waarin productie, voorraad en kwaliteit realtime worden geregistreerd. Processen zijn gestroomlijnd, foutkansen zijn verminderd en management beschikt over actuele dashboards. De mobiele applicatie ondersteunt medewerkers en management bij dagelijkse werkzaamheden en besluitvorming.
