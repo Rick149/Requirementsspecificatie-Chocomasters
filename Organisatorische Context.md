@@ -218,3 +218,19 @@ Binnen ChocoMasters worden productie-, voorraad- en kwaliteitsgegevens grotendee
 **Gewenste situatie**
 
 ChocoMasters werkt met een centraal digitaal systeem waarin productie, voorraad en kwaliteit realtime worden geregistreerd. Processen zijn gestroomlijnd, foutkansen zijn verminderd en management beschikt over actuele dashboards. De mobiele applicatie ondersteunt medewerkers en management bij dagelijkse werkzaamheden en besluitvorming.
+
+
+--
+
+
+## 1.10 SIPOC## 
+
+| **Supplier**          | **Input**                     | **Process**                          | **Output**                        | **Customer**                       |
+| --------------------- | ----------------------------- | ------------------------------------ | --------------------------------- | ---------------------------------- |
+| Grondstofleveranciers | Cacao, suiker, melkpoeder     | Ontvangst en opslag van grondstoffen | Beschikbare grondstoffen          | Productie                          |
+| Productie             | Personeel, machines, planning | Chocoladeproductie (batchgewijs)     | Afgewerkte chocolade              | Kwaliteitscontrole                 |
+| Kwaliteitscontrole    | Keuringscriteria              | Kwaliteitskeuring en goed-/afkeuring | Goedgekeurde batch                | Verpakking & logistiek             |
+| Magazijn              | Voorraadgegevens              | Voorraadregistratie en -beheer       | Beschikbare voorraad              | Sales & distributie                |
+| Administratie         | Batch- en orderinformatie     | Rapportage en documentatie           | Productie- en kwaliteitsrapporten | Management                         |
+| Transporteurs         | Transportmiddelen             | Distributie                          | Geleverde producten               | Supermarkten, horeca, groothandels |
+
