@@ -184,3 +184,8 @@ ChocoMasters heeft vijf verschillende strategische doelstellingen waar de app ee
 ---
 
 
+**Actoren van het systeem**
+
+De app en onderliggende systemen worden door verschillende actoren gebruikt. **Productiemedewerkers** registreren batches en productiegegevens. **Magazijn- en logistiek personeel** verwerken voorraden en mutaties. **Kwaliteitscontroleurs** voeren keuringen uit en registreren hun bevindingen. 
+
+**Administratieve medewerkers** zorgen voor rapportages en documentatie. **Het management** maakt gebruik van dashboards en analyses. **De IT afdeling** zorgt voor ondersteuning en beheer van accounts, rechten en infrastructuur. 
