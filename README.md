@@ -20,3 +20,11 @@ De requirementsspecificatie volgt de stappen van Requirements Engineering: van c
 8. Sitemap 
 9. Versiebeheer & wijzigingen 
 10. MMoSCoW / MVP-afbakening
+
+----
+
+## 1. Organisatorische context
+*Bestand:* 0.1_Organisatorische_Context.md Beschrijving van ChocoMasters als organisatie, inclusief doelstellingen, huidige situatie en projectaanleiding.
+
+## 2. Actoren & Stakeholders 
+*Bestand:* 0.2_Actoren.md Overzicht van alle betrokken gebruikers en stakeholders, inclusief hun belangen, verantwoordelijkheden en interacties met het systeem.
