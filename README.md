@@ -8,3 +8,15 @@ Het doel van deze opdracht is het gestructureerd vastleggen van de context, proc
 De requirementsspecificatie volgt de stappen van Requirements Engineering: van contextanalyse en stakeholders tot processen, domeinmodellen, wireframes en versiebeheer.
 
 ---
+
+## Inhoudsopgave 
+1. Organisatorische context 
+2. Actoren & Stakeholders 
+3. Bedrijfsprocesanalyse 
+4. Productvisie 
+5. Requirements 
+6. Wireframes 
+7. Domeinmodel & Klassendiagram 
+8. Sitemap 
+9. Versiebeheer & wijzigingen 
+10. MMoSCoW / MVP-afbakening
