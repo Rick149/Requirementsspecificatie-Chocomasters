@@ -28,3 +28,9 @@ De requirementsspecificatie volgt de stappen van Requirements Engineering: van c
 
 ## 2. Actoren & Stakeholders 
 *Bestand:* 0.2_Actoren.md Overzicht van alle betrokken gebruikers en stakeholders, inclusief hun belangen, verantwoordelijkheden en interacties met het systeem.
+
+## 3. Bedrijfsprocesanalyse 
+*Bestand:* 0.3_Bedrijfsprocesanalyse.md Analyse van de kernprocessen van ChocoMasters met behulp van SIPOC, GAP-analyse en procesbeschrijvingen.
+
+## 4. Productvisie
+*Bestand:* 0.4_Product Vision Board.png Visualisatie van de productvisie, doelgroepen, kernproblemen en waardepropositie.
