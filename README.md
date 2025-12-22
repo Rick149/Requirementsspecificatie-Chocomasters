@@ -24,25 +24,27 @@ De requirementsspecificatie volgt de stappen van Requirements Engineering: van c
 ----
 
 ## 1. Organisatorische context
-*Bestand:* 0.1_Organisatorische_Context.md Beschrijving van ChocoMasters als organisatie, inclusief doelstellingen, huidige situatie en projectaanleiding.---
+*Bestand:* 0.1_Organisatorische_Context.md Beschrijving van ChocoMasters als organisatie, inclusief doelstellingen, huidige situatie en projectaanleiding.
 
 ## 2. Actoren & Stakeholders 
-*Bestand:* 0.2_Actoren.md Overzicht van alle betrokken gebruikers en stakeholders, inclusief hun belangen, verantwoordelijkheden en interacties met het systeem.---
+*Bestand:* 0.2_Actoren.md Overzicht van alle betrokken gebruikers en stakeholders, inclusief hun belangen, verantwoordelijkheden en interacties met het systeem.
 
 ## 3. Bedrijfsprocesanalyse 
-*Bestand:* 0.3_Bedrijfsprocesanalyse.md Analyse van de kernprocessen van ChocoMasters met behulp van SIPOC, GAP-analyse en procesbeschrijvingen.---
+*Bestand:* 0.3_Bedrijfsprocesanalyse.md Analyse van de kernprocessen van ChocoMasters met behulp van SIPOC, GAP-analyse en procesbeschrijvingen.
 
 ## 4. Productvisie
-*Bestand:* 0.4_Product Vision Board.png Visualisatie van de productvisie, doelgroepen, kernproblemen en waardepropositie.---
+*Bestand:* 0.4_Product Vision Board.png Visualisatie van de productvisie, doelgroepen, kernproblemen en waardepropositie.
 
 ## 5. Requirements
-*Bestand:* Requirements Chocolate Firm.md Bevat de functionele en niet-functionele requirements, inclusief user stories en acceptatiecriteria.---
+*Bestand:* Requirements Chocolate Firm.md Bevat de functionele en niet-functionele requirements, inclusief user stories en acceptatiecriteria.
 
 
 ## 6. Wireframes 
-*Mappen:* Bestellen, Dashboard, Formulier, Product bibliotheek, Product registreren Visuele wireframes die laten zien hoe gebruikers door de applicatie navigeren en interactie hebben met de belangrijkste functionaliteiten. --- 
+*Mappen:* Bestellen, Dashboard, Formulier, Product bibliotheek, Product registreren Visuele wireframes die laten zien hoe gebruikers door de applicatie navigeren en interactie hebben met de belangrijkste functionaliteiten.
+
 ## 7. Domeinmodel & Klassendiagram 
-*Bestanden:* domeinmodel.md, klassendiagram.md 🖼 *Afbeeldingen:* Klassendiagram chocomaster 2.0.jpg Structuur van de belangrijkste entiteiten binnen het domein ChocoMasters en hun onderlinge relaties. ---
+*Bestanden:* domeinmodel.md, klassendiagram.md 🖼 *Afbeeldingen:* Klassendiagram chocomaster 2.0.jpg Structuur van de belangrijkste entiteiten binnen het domein ChocoMasters en hun onderlinge relaties. 
+
 
 
 ## 8. To Be Continuea... Komt na de kerst online...
