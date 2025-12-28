@@ -55,12 +55,12 @@ Bestand: Sitemap.md
 Overzicht van de navigatiestructuur van de applicatie en de onderlinge samenhang van schermen.
 
 
-9. Versiebeheer & wijzigingen
+## 9. Versiebeheer & wijzigingen
 
 De repository maakt gebruik van GitHub versiebeheer. Wijzigingen worden vastgelegd via commits met duidelijke beschrijvingen. Bestanden zijn genummerd om volgorde en samenhang te waarborgen.
 
 
-10. MMoSCoW / MVP-afbakening
+## 10. MMoSCoW / MVP-afbakening
 
 Binnen deze opdracht is gewerkt met een MVP-benadering. Kernfunctionaliteiten zoals productregistratie, bestellingen en klachtenafhandeling zijn geprioriteerd boven uitbreidingen.
 
