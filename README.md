@@ -43,10 +43,30 @@ De requirementsspecificatie volgt de stappen van Requirements Engineering: van c
 *Mappen:* Bestellen, Dashboard, Formulier, Product bibliotheek, Product registreren Visuele wireframes die laten zien hoe gebruikers door de applicatie navigeren en interactie hebben met de belangrijkste functionaliteiten.
 
 ## 7. Domeinmodel & Klassendiagram 
-*Bestanden:* domeinmodel.md, klassendiagram.md 
-*Afbeeldingen:* Klassendiagram chocomaster 2.0.jpg 
+*Bestanden:* domeinmodel.md, klassendiagram.md*
+*Afbeeldingen:* Klassendiagram chocomaster 2.0.jpg* 
+---
 Structuur van de belangrijkste entiteiten binnen het domein ChocoMasters en hun onderlinge relaties. 
 
+## 8. Sitemap
+
+Bestand: Sitemap.md
+
+Overzicht van de navigatiestructuur van de applicatie en de onderlinge samenhang van schermen.
 
 
-## 8. To Be Continuea... Komt na de kerst online...
+9. Versiebeheer & wijzigingen
+
+De repository maakt gebruik van GitHub versiebeheer. Wijzigingen worden vastgelegd via commits met duidelijke beschrijvingen. Bestanden zijn genummerd om volgorde en samenhang te waarborgen.
+
+
+10. MMoSCoW / MVP-afbakening
+
+Binnen deze opdracht is gewerkt met een MVP-benadering. Kernfunctionaliteiten zoals productregistratie, bestellingen en klachtenafhandeling zijn geprioriteerd boven uitbreidingen.
+
+
+-----
+
+Afsluiting
+
+Deze README biedt structuur en overzicht voor de volledige requirementsspecificatie. Alle onderdelen zijn traceerbaar, consistent benoemd en sluiten aan op de beoordelingscriteria van de opdracht.
