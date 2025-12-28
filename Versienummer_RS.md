@@ -1,0 +1,12 @@
+## Versiebeheer
+
+| Versienummer | Datum       | Auteur          | Wijziging                                      | Gecontroleerd door |
+|--------------|-------------|------------------|------------------------------------------------|--------------------|
+| 0.1          | 23-11-2025  | zzz, zzz    | Eerste opzet Organisatorische Context          | —                  |
+| 0.2          | 00-11-2025  | zzz           | Actoren en rollen uitgewerkt                   | xxx              |
+| 0.3          | 00-11-2025  | zzz           | Bedrijfsprocesanalyse (IST–SOLL–GAP, SIPOC)    | xxx              |
+| 0.4          | 00-11-2025  | zzz, zzz   | Product Vision Board toegevoegd                | xxx               |
+| 0.5          | 00-12-2025  | zzz, zzz      | User stories + acceptatiecriteria uitgewerkt   | xxx             |
+| 0.6          | 00-12-2025  | zzz, zzz    | Domeinmodel en UML klassendiagram toegevoegd   | xxx              |
+| 0.7          | 00-12-2025  | xxx             | Sitemap opgesteld                               | xxx              |
+| 0.8          | 28-12-2025  | xxx           | Wireframes toegevoegd                          | xxx              |
