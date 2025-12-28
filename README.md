@@ -67,6 +67,6 @@ Binnen deze opdracht is gewerkt met een MVP-benadering. Kernfunctionaliteiten zo
 
 -----
 
-Afsluiting
+## Afsluiting
 
 Deze README biedt structuur en overzicht voor de volledige requirementsspecificatie. Alle onderdelen zijn traceerbaar, consistent benoemd en sluiten aan op de beoordelingscriteria van de opdracht.
