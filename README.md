@@ -69,4 +69,6 @@ Binnen deze opdracht is gewerkt met een MVP-benadering. Kernfunctionaliteiten zo
 
 ## Afsluiting
 
-Deze README biedt structuur en overzicht voor de volledige requirementsspecificatie. Alle onderdelen zijn traceerbaar, consistent benoemd en sluiten aan op de beoordelingscriteria van de opdracht.
+Deze README biedt een gestructureerd en transparant overzicht van de requirementsspecificatie van ChocoMasters. De documentatie volgt de stappen van Requirements Engineering en maakt de samenhang zichtbaar tussen context, processen, requirements en ontwerpkeuzes.
+
+De heldere structuur en het gebruik van versiebeheer zorgen voor goede traceerbaarheid en maken de repository geschikt voor beoordeling en verdere doorontwikkeling. De gemaakte keuzes sluiten aan op de MVP-gedachte en weerspiegelen een professionele werkwijze van het team.
